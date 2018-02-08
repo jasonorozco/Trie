@@ -1,2 +1,2 @@
 # Trie
-Trie suffix tree 
+Trie suffix tree, Data Structures class project
